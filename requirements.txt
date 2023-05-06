@@ -1,6 +1,6 @@
-streamlit
 langchain.text_splitter 
 langchain.embeddings.openai 
 langchain.vectorstores
 tqdm.auto
 uuid
+streamlit
