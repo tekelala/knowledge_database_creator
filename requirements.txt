@@ -1,11 +1,9 @@
 streamlit
-base64
 python-docx
 PyPDF4
 pdfplumber
 pandas
 tqdm
-uuid
 pinecone
 nltk
 transformers
